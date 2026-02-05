@@ -1,0 +1,160 @@
+{
+  "book_id": "african-independence-minimalist-exile-diaspora",
+  "title": "The Geometry of Sovereignty",
+  "tagline": "In exile, a man rebuilds his father's revolution one quiet ritual at a time.",
+  "target_words": 70000,
+  "actual_words": 70835,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Absence",
+    "Ritual as Resistance",
+    "The Diaspora's Quiet Politics",
+    "Inherited Ideals in a Foreign Land"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weight of Rain",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "Monument to Managed Decay",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Tension of a Promise",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Bulletin",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Selasi's Noise",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "The Lockbox",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "A Call from Home",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "The Ghost in the Speech",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Market's Symphony",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "Council Tectonics",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Teacher's Account",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "Lines of Plain Prose",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Photograph's Gaze",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Highlife and Silence",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Geometry of Exile",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "Fragments of Kwame Asare",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Warehouse Guard",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "Boiled Cabbage Air",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "A Blade, Not a Shout",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Patient Prisoners",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "Red Earth Memory",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "Sovereignty's Metal",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Ritual of Waiting",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Anchor in the Bag",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character prepares a meal from their homeland, with each step triggering a specific, non-linear memory of political upheaval.",
+      "Create a dialogue between two exiles: one who fills silence with noise and community, and one who preserves it with ritual and order.",
+      "Draft a 'found document'—a letter, speech fragment, or bulletin—from the revolutionary father, Kwame Asare, that his son Kofi discovers.",
+      "Describe a character's mundane workplace (like the council office) as a physical manifestation of the bureaucratic decay they fled, contrasting it with a flash of remembered idealism."
+    ],
+    "technical": [
+      "Build a 'Minimalist Narrative Engine' that generates a daily ritual (like preparing yam) and pairs it algorithmically with a pseudo-random, thematically-linked memory from a database of exile experiences.",
+      "Create a text-based environment simulator for Kofi's room, where interactive objects (lockbox, radio, photograph) reveal fragments of the story through descriptive prose and embedded audio clips of remembered sounds."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "J.M. Coetzee (for minimalist austerity and the politics of silence)",
+      "Teju Cole (for the diasporic consciousness and intellectual exile)",
+      "Aminatta Forna (for the legacy of political trauma and precise, sensory detail)",
+      "Georges Perec (for the obsessive documentation of the everyday and the architecture of constraint)"
+    ]
+  },
+  "cover_prompt": "A solitary man in a worn suit meticulously arranges geometric fragments of red laterite brick and bleached animal bone on a sun-bleached wooden table in a sparse, modern apartment overlooking a foreign city, the act a solemn ritual of memory and reconstruction, [atmospheric setting with mood-appropriate details: a large window reveals a rain-slicked European metropolis at dusk, contrasting with the warm, sacred space of the table; on the wall, a faded, framed map of an African nation hangs beside a single, stark political poster from a bygone era], in the atmospheric style of Ibrahim El-Salahi’s ink drawings and Lynette Yiadom-Boakye’s contemplative portraiture, blending symbolic minimalism with profound emotional gravity, [book cover framing, centered composition, dramatic angle: tight, intimate close-up from a low angle, focusing on the man’s hands and the arranged fragments, his face partially obscured in thoughtful shadow, the composition balanced between the ordered geometry on the table and the chaotic, blurred city lights through the window], [appropriate lighting style with color temperature: dramatic chiaroscuro lighting from a single desk lamp casting long, sharp shadows, bathing the ritual objects in a warm, amber glow against the cool, blue-grey twilight of the outside world, color palette of burnt sienna, ochre, bone white, and deep indigo], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
