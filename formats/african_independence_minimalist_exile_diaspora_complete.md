@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The rain in London had a different weight. It didn’t fall; it settled, a fine, persistent ash that clung to the shoulders of your coat and the back of your neck. Kofi watched it from the window of the 73 bus, smearing the world into a watercolour of grey and muted green. He was holding a plastic bag on his lap. Inside the bag was a single, perfect yam.
@@ -95,6 +97,8 @@ He went to the window. The rain had stopped. The pavement gleamed under the oran
 He turned and looked at the photograph of his father. The man’s mouth was open, forever speaking into a void. Kofi put his hand on the cold radiator. He listened to the distant, metallic heartbeat of the city. He thought of the lockbox under the bed. He thought of the meeting in Harringay.
 
 The silence in the room was no longer a companion. It was a verdict. And he was beginning to feel the first, faint itch to appeal.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -197,6 +201,8 @@ He went to the window. The night was clear, cold. A plane moved across the sky, 
 He was not his father. He would not make speeches. He would make bulletins. He would not start fires. He would tend a small, stubborn flame.
 
 He turned from the window. For the first time in a long time, the room did not feel like the end of the line. It felt like a workshop. And he had work to do on Tuesday.
+
+# Chapter 3
 
 ## CHAPTER 3
 
